@@ -14,12 +14,12 @@ GET: https://shoreexam1.herokuapp.com/users
 POST: https://shoreexam1.herokuapp.com/users
 
 3. Find user
-GET: https://shoreexam1.herokuapp.com/users/<userid>
+GET: https://shoreexam1.herokuapp.com/users/userid
 
 4. Update user
-POST: https://shoreexam1.herokuapp.com/users/<userid>
+POST: https://shoreexam1.herokuapp.com/users/userid
   
 5. Delete user
-DELETE: https://shoreexam1.herokuapp.com/users/<userid>
+DELETE: https://shoreexam1.herokuapp.com/users/userid
   
   
