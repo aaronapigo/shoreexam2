@@ -5,6 +5,8 @@ Deploy to heroku (URL: https://shoreexam1.herokuapp.com)
 
 Uses MongoDB Atlas
 
+WIKI: https://github.com/aaronapigo/shoreexam2/wiki
+
 EndPoints
 
 1. Lists all users
