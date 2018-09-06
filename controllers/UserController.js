@@ -19,7 +19,7 @@ exports.createNewUser = (req, res) => {
   });
 };
 
-exports.readUser = (req, body) => {
+exports.readUser = (req, res) => {
   User.findById(req.params.userid, (err, user) => {
     if (err) {
       res.status(500).send(err);
