@@ -1,4 +1,4 @@
-# shoreexam2
+# Shore Exam2
 Exam 2
 
 Deploy to heroku (URL: https://shoreexam1.herokuapp.com)
